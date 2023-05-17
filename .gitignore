@@ -1,0 +1,16 @@
+##############################
+**/.DS_Store
+.metadata
+.classpath
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
+
+## vim config specific
+./dictionary/persons.dict
+__pycache__/
+tags
